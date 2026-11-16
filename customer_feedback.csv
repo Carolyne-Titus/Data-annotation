@@ -1,0 +1,11 @@
+ID,Customer Feedback,Sentiment
+1,"I love the quality of this product.",Positive
+2,"My order arrived three days late.",Negative
+3,"The product is okay, nothing special.",Neutral
+4,"Excellent customer service. Very helpful!",Positive
+5,"I received the wrong item.",Negative
+6,"The delivery took two days.",Neutral
+7,"I am very happy with my purchase.",Positive
+8,"The packaging was damaged.",Negative
+9,"The product works as described.",Neutral
+10,"Amazing experience. I will definitely buy again!",Positive
