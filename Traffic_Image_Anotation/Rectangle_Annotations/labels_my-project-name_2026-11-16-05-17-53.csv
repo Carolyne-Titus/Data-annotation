@@ -1,0 +1,25 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+A person,107,1372,173,641,mixed.jpg,3737,3737
+A person,2562,1378,256,545,mixed.jpg,3737,3737
+A person,537,1429,462,481,mixed.jpg,3737,3737
+A person,415,1987,276,564,mixed.jpg,3737,3737
+A person,3299,2045,314,494,mixed.jpg,3737,3737
+A person,5123,2308,1477,1527,motorcycles.jpg,6960,4640
+A person,3449,2997,1650,1403,motorcycles.jpg,6960,4640
+A sign,2266,1671,290,1358,parking.jpg,6000,4000
+A car,143,2364,255,212,parking.jpg,6000,4000
+Lights,4516,716,304,269,parking.jpg,6000,4000
+Lights,3001,1232,325,226,parking.jpg,6000,4000
+A car,483,2209,389,318,parking.jpg,6000,4000
+A person,1847,797,216,512,pedestrians.jpg,2732,1578
+A person,1086,839,177,435,pedestrians.jpg,2732,1578
+A person,800,816,135,412,pedestrians.jpg,2732,1578
+A person,403,826,190,441,pedestrians.jpg,2732,1578
+A person,2568,861,100,377,pedestrians.jpg,2732,1578
+A person,0,823,139,480,pedestrians.jpg,2732,1578
+A building,0,0,1302,768,pedestrians.jpg,2732,1578
+A building,1418,95,1314,696,pedestrians.jpg,2732,1578
+Lights,1341,0,245,66,pedestrians.jpg,2732,1578
+A sign,954,2263,1137,1051,traffic.jpg,4500,6253
+A sign,3668,3132,300,826,traffic.jpg,4500,6253
+A sign,3818,2134,682,1191,traffic.jpg,4500,6253
