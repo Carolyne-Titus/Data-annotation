@@ -29,19 +29,30 @@ Github-Project storange and documentation.
 
 Annotation Export Formats
 The annotations were exported in the following formats:
+
 YOLO
+
 Pascal VOC XML
+
 CSV
+
 Poligon Formats
+
 VGG JSON
 COCO JSON
 
 Skills Demonstrated
+
 Image Annotation
+
 Object Identification and classification
+
 Bounding box annotation
+
 Polygon Annotation
+
 Dataset Organisation
+
 Basic GitHub project management
 
 Conclusion
