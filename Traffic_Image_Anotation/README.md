@@ -13,47 +13,47 @@ Develop practical data annotation skills
 
 ##  3.0 Datasheet Description
 The datasheet consists of five images covering different road and traffic scenarios:
--Traffic scenes
--Persons\pedestrians
--Motorcycles
--Parking
+- Traffic scenes
+- Persons\pedestrians
+- Motorcycles
+- Parking
 
 ## 4.0 Annotation Techniques
 Two annotation techniques were used:
--Polygon Box Annotation: Polygons were used to trace the outlines and shapes of selected objects.
--Bounding Box Annotation:Rectangular boxes were drawn around identified objects.
+- Polygon Box Annotation: Polygons were used to trace the outlines and shapes of selected objects.
+- Bounding Box Annotation:Rectangular boxes were drawn around identified objects.
 
 ## 5.0 Tool Used
--MakeSense AI-Image annotations
--Github-Project storange and documentation.
+- MakeSense AI-Image annotations
+- Github-Project storange and documentation.
 
 ## 6.0 Annotation Export Formats
 The annotations were exported in the following formats:
 
--YOLO
+- YOLO
 
--Pascal VOC XML
+- Pascal VOC XML
 
--CSV
+- CSV
 
 Poligon Formats
 
--VGG JSON
--COCO JSON
+- VGG JSON
+- COCO JSON
 
 ## 7.0 Skills Demonstrated
 
--Image Annotation
+- Image Annotation
 
--Object Identification and classification
+- Object Identification and classification
 
--Bounding box annotation
+- Bounding box annotation
 
--Polygon Annotation
+- Polygon Annotation
 
--Dataset Organisation
+- Dataset Organisation
 
--Basic GitHub project management
+- Basic GitHub project management
 
 ## Conclusion
 This project provided practical experience in image annotation and introduced the processes involved in preparing labelled datasets for AI and machine learning applications
